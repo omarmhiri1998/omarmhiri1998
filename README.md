@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+I’m Omar Mhiri
+Student at TU Dortmund University
+
 
 <!--
 **omarmhiri1998/omarmhiri1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
