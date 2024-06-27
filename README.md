@@ -1,4 +1,4 @@
-###### Hi there 👋 
+## Hi there 👋 
 ### I’m Omar Mhiri
 Student at TU Dortmund University
 
