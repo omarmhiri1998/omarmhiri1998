@@ -1,5 +1,5 @@
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952xw2t60cv2gbzf0351w7mby2s7sanevzc2qye4a9z&ep=v1_internal_gif_by_id&rid=giphy.gif&
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952xw2t60cv2gbzf0351w7mby2s7sanevzc2qye4a9z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Coming Soon GIF" />
 
 
 
