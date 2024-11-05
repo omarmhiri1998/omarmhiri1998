@@ -19,7 +19,7 @@ As a dedicated **Web Development Student**, I am eager to bring engaging and eff
 ---
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/omar-mhiri)  
+- [LinkedIn](https://www.linkedin.com/in/omar-mhiri-67b8b2263/)  
 ---
 
 ### 🛠️ Languages & Tools
