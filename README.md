@@ -38,6 +38,16 @@ As a dedicated **Web Development Student**, I am eager to bring engaging and eff
 - **Responsive Web Design**
 - **Browser Developer Tools**
 - **VS Code**
+- **java**
+- **php**
+- **codenighter**
+- **python**
+- **kotlin**
+- **SQL**
+- **Powerpoint**
+- **Exel**
+- **unity**
+- **C#**
 
 ---
 
